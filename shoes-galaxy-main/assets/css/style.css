@@ -1,0 +1,23 @@
+.fs-10 {
+    font-size: 6rem!important;
+}
+
+.fs-8{
+    font-size: 4rem!important;
+}
+
+.gambar {
+    display: flex;
+    justify-content: space-around  ;
+
+}
+
+.gambar h2 {
+    margin-left: 70%;
+}
+
+.home-btn:active{
+    color: white;
+
+}
+
