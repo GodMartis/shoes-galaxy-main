@@ -1,5 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.gradient-bg {
+  background: linear-gradient(to bottom, #f44336, #ff9800);
+}
+.shoe-image {
+  width: 250px;
+  height:250px;
+}
+.color-circle {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
 .OurProduct-btn:active{
     color: white;
 
 }
 
+.new{
+color:white;
+
+}
