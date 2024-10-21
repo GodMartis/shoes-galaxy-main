@@ -20,4 +20,9 @@
     color: white;
 
 }
+ .paraf {
 
+    position: relative;
+    left: 30px;
+    top: 30px;
+ }
